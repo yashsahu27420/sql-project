@@ -1,7 +1,4 @@
-# sql-project
-sql project on Population analysis of India 
-
-
+# sql project on Population analysis of India  
 
 
 -- number of rows into our dataset
